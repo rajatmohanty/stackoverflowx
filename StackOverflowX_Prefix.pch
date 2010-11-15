@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'StackOverflowX' target in the 'StackOverflowX' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
